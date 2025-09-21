@@ -95,8 +95,8 @@ Adding services such as crypto asset vaults or inheritance tax planning can incr
 
 •	Increasing awareness of blockchain technology benefits
 As blockchain adoption grows, more users may seek decentralized solutions for legal documentation.
-Threats
 
+## Threats
 •	Intense competition from traditional will-writing services
 Established legal firms and online platforms may leverage brand trust and resources to retain market share.
 
