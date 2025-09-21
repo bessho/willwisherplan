@@ -28,6 +28,29 @@ Use of industry-standard encryption and authentication frameworks
 Regular security audits and updates
 User education on security best practices
 
+### Core function 2: Will Drafting Interface
+An intuitive, guided interface allowing users to input personal information, designate beneficiaries, and specify testamentary instructions to generate legally valid wills on-chain.
+
+#### Benefits of this core function
+Simplifies complex legal processes for tech-savvy users
+Enables customization of wills to individual needs
+Reduces reliance on traditional legal services
+#### Pricing strategy of this core function
+Basic will drafting for a one-time $99
+- Unlimited wills, unlimited editing, unlimited saving
+- No restriction on the individual and available for the entire family
+Paid plan for additional storage
+Premium to save your digital last will on the blockchain
+#### Challenges of this core function
+Ensuring legal compliance across jurisdictions
+Designing user-friendly workflows for complex decisions
+Handling diverse estate planning scenarios
+#### Strategic execution of this core function
+Iterative user experience improvements based on feedback
+Integration of legal compliance checks
+Modular design for scalability and customization
+
+
 
 
 
