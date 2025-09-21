@@ -21,25 +21,19 @@ Parents in their late 20s to 40s who recognize the importance of will for their 
 
 ## Competitive Analysis
 ### Willful
-https://www.willful.co/
-A Canadian online platform offering simple, affordable, and accessible will and power of attorney document creation, targeting users seeking a digital-first estate planning approach.
+A Canadian online platform offering simple, affordable, and accessible will and power of attorney document creation, targeting users seeking a digital-first estate planning approach. https://www.willful.co/
 
 ### FreeWill
-https://www.freewill.com/
-Provides free digital estate planning tools with a focus on charitable giving, appealing to socially conscious users through partnerships with nonprofits.
+Provides free digital estate planning tools with a focus on charitable giving, appealing to socially conscious users through partnerships with nonprofits. https://www.freewill.com/
 
 ### Rocket Lawyer
-https://www.rocketlawyer.com/
-Offers affordable online legal documents including wills, combined with access to licensed attorneys for additional support, blending digital convenience with professional guidance.
+Offers affordable online legal documents, including wills, combined with access to licensed attorneys for additional support, blending digital convenience with professional guidance. https://www.rocketlawyer.com/
 
 ### LegalZoom
-https://www.legalzoom.com/
-A leading online legal services provider offering a broad range of legal documents and services, including wills and trusts, without requiring traditional attorney involvement.
+A leading online legal services provider offering a broad range of legal documents and services, including wills and trusts, without requiring traditional attorney involvement. https://www.legalzoom.com/
 
 ### Trust & Will
-https://trustandwill.com/
-U.S.-based platform providing digital tools for creating wills, trusts, and guardianship documents, focusing on simplicity, affordability, and legal validity tailored to life stages.
-
+U.S.-based platform providing digital tools for creating wills, trusts, and guardianship documents, focusing on simplicity, affordability, and legal validity, tailored to life stages. https://trustandwill.com/
 
 
 
