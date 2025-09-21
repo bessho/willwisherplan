@@ -12,8 +12,11 @@ Parents in their late 20s to 40s who recognize the importance of will for their 
 
 ## How to reach the audience
 •	Social media campaigns on Instagram, Twitter, TikTok, and Reddit targeting young digital natives
+
 •	Engagement in crypto forums, Discord channels, blockchain conferences, and YouTube for crypto enthusiasts
+
 •	Content marketing via LinkedIn, Medium, Google Ads, and podcasts aimed at tech-savvy professionals
+
 •	Targeted advertising on Facebook, parenting blogs, Instagram, and Pinterest to reach millennial parents
 
 
