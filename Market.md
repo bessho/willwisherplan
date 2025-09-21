@@ -19,6 +19,28 @@ Parents in their late 20s to 40s who recognize the importance of will for their 
 
 •	Targeted advertising on Facebook, parenting blogs, Instagram, and Pinterest to reach millennial parents
 
+## Competitive Analysis
+### Willful
+https://www.willful.co/
+A Canadian online platform offering simple, affordable, and accessible will and power of attorney document creation, targeting users seeking a digital-first estate planning approach.
+
+### FreeWill
+https://www.freewill.com/
+Provides free digital estate planning tools with a focus on charitable giving, appealing to socially conscious users through partnerships with nonprofits.
+
+### Rocket Lawyer
+https://www.rocketlawyer.com/
+Offers affordable online legal documents including wills, combined with access to licensed attorneys for additional support, blending digital convenience with professional guidance.
+
+### LegalZoom
+https://www.legalzoom.com/
+A leading online legal services provider offering a broad range of legal documents and services, including wills and trusts, without requiring traditional attorney involvement.
+
+### Trust & Will
+https://trustandwill.com/
+U.S.-based platform providing digital tools for creating wills, trusts, and guardianship documents, focusing on simplicity, affordability, and legal validity tailored to life stages.
+
+
 
 
 
