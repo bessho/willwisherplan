@@ -69,22 +69,41 @@ Optimize smart contracts for cost efficiency
 Educate users on blockchain benefits
 Collaborate with legal experts to ensure compliance
 
+### Core function 4: Legal Compliance Checker
+Automated feature that reviews drafted wills against relevant legal requirements to ensure validity and reduce risk of disputes or invalidation.
 
+#### Benefits of this core function
+Increases legal reliability of wills
+Reduces user errors and omissions
+Builds confidence in digital will creation
+#### Pricing strategy of this core function
+Available in premium packages
+Optional legal review add-ons
+#### Challenges of this core function
+Keeping up-to-date with changing laws and regulations
+Adapting to jurisdiction-specific legal nuances
+Balancing automation with legal complexity
+#### Strategic execution of this core function
+Continuous legal research and updates
+Partnerships with legal professionals
+Incorporation of AI-assisted compliance algorithms
 
+### Core function 5: User Support and Guidance
+Provides comprehensive assistance through FAQs, tutorials, and responsive customer support to help users navigate the will-drafting process and address concerns.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### Benefits of this core function
+Improves user satisfaction and retention
+Reduces barriers to adoption for less experienced users
+Enhances overall platform usability
+#### Pricing strategy of this core function
+Included in all service tiers
+Premium support options for advanced assistance
+#### Challenges of this core function
+Scaling support as user base grows
+Maintaining up-to-date educational content
+Providing timely and accurate responses
+#### Strategic execution of this core function
+Implement multi-channel support (chat, email, forums)
+Regularly update help resources
+Leverage community forums and peer support
 
