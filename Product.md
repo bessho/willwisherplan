@@ -50,6 +50,27 @@ Iterative user experience improvements based on feedback
 Integration of legal compliance checks
 Modular design for scalability and customization
 
+### Core function 3: Blockchain Storage and Verification
+Securely stores wills on the blockchain to guarantee immutability, transparency, and verifiable authenticity, ensuring documents cannot be tampered with or lost.
+
+#### Benefits of this core function
+Provides tamper-proof and permanent record of wills
+Enhances user trust through transparency
+Facilitates easy verification by authorized parties
+#### Pricing strategy of this core function
+Included as core platform feature
+Potential fees for on-chain storage depending on usage
+#### Challenges of this core function
+Managing blockchain transaction costs and scalability
+Ensuring user-friendly access to blockchain data
+Addressing legal acceptance of blockchain-stored documents
+#### Strategic execution of this core function
+Optimize smart contracts for cost efficiency
+Educate users on blockchain benefits
+Collaborate with legal experts to ensure compliance
+
+
+
 
 
 
