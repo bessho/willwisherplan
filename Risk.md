@@ -47,4 +47,70 @@ The platform could face legal challenges if users dispute the validity of wills 
 •	Provide clear disclaimers and user agreements outlining platform limitations.
 •	Establish a legal defense fund and insurance to mitigate potential liabilities.
 
+# SWOT Analysis
+## Strengths
+•	First fully on-chain dApp for will drafting
+Pioneering the use of blockchain technology to create legally valid wills, offering a unique and innovative solution.
+
+•	Enhanced security and transparency via blockchain
+Utilizes blockchain’s immutability and transparency to ensure wills are secure, tamper-proof, and easily verifiable.
+
+•	Simplified user experience for tech-savvy individuals
+Designed with an intuitive interface tailored to digital natives, reducing complexity in estate planning.
+
+•	Strong alignment with digital natives' values
+Caters specifically to the crypto community and tech-savvy users who value decentralization and digital solutions.
+
+•	Legal and technical expertise from the founder
+Led by a law student with startup and technical experience, ensuring both legal compliance and technological robustness.
+
+## Weaknesses
+•	Limited brand recognition in the legal tech space
+As a new entrant, the platform lacks established reputation and trust compared to traditional providers.
+
+•	Dependence on users' understanding of blockchain
+Potential users may be hesitant or confused by blockchain technology, limiting adoption among less tech-savvy individuals.
+
+•	Potential legal complexities in different jurisdictions
+Varying laws on digital wills across states and countries may complicate platform scalability and compliance.
+
+•	Initial market reach may be constrained to California
+Focusing initially on California limits immediate market size and requires future expansion plans.
+
+•	User trust in digital wills may be low
+Skepticism about the legal validity and security of digital wills could hinder user acquisition.
+
+## Opportunities
+•	Growing interest in estate planning among younger demographics
+Increasing awareness and need for estate planning tools among millennials and Gen Z create a receptive market.
+
+•	Expansion into other states and international markets
+Scaling beyond California offers significant growth potential as digital legal services gain acceptance.
+
+•	Partnerships with legal professionals for credibility
+Collaborations with estate lawyers and advisors can enhance trust and broaden service offerings.
+
+•	Integration of additional features like digital asset management
+Adding services such as crypto asset vaults or inheritance tax planning can increase platform value.
+
+•	Increasing awareness of blockchain technology benefits
+As blockchain adoption grows, more users may seek decentralized solutions for legal documentation.
+Threats
+
+•	Intense competition from traditional will-writing services
+Established legal firms and online platforms may leverage brand trust and resources to retain market share.
+
+•	Emerging competitors in the blockchain estate planning space
+New entrants adopting similar blockchain-based solutions could erode first-mover advantage.
+
+•	Regulatory challenges regarding digital wills
+Changes in laws or regulatory scrutiny could restrict or complicate the use of blockchain for legal documents.
+
+•	Potential cybersecurity threats to the platform
+Vulnerabilities or attacks could compromise user data and damage platform reputation.
+
+•	Changing legal standards for digital documents
+Evolving legal interpretations may require costly adaptations or limit the platform’s applicability.
+
+
 
